@@ -1,0 +1,18 @@
+/*pushes first image away from top nav bar*/
+/* body::before {
+    display: block;
+    content:'';
+    height: 2rem;
+} */
+
+
+/*control width of form at lrg screen*/
+@media(min-width: 768px) {
+
+
+    .email-input, .msg-input {
+        width: 50%;
+    }
+
+    
+}
